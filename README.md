@@ -14,14 +14,14 @@ IDE： IDEA 2018.3
 # 示例代码
 
 ## 项目结构
-![](http://tmp.wyjsjxh.com/201908181853_268.png)
+![](http://tmps.wyjsjxh.com/201908181853_268.png)
 
 ## 实例代码
-![](http://tmp.wyjsjxh.com/201908181854_720.png)
-![](http://tmp.wyjsjxh.com/201908181852_618.png)
-![](http://tmp.wyjsjxh.com/201908181855_859.png)
+![](http://tmps.wyjsjxh.com/201908181854_720.png)
+![](http://tmps.wyjsjxh.com/201908181852_618.png)
+![](http://tmps.wyjsjxh.com/201908181855_859.png)
 
 
 ## 运行截图
-![](http://tmp.wyjsjxh.com/201908181856_504.png)
-![](http://tmp.wyjsjxh.com/201908181857_561.png)
+![](http://tmps.wyjsjxh.com/201908181856_504.png)
+![](http://tmps.wyjsjxh.com/201908181857_561.png)
